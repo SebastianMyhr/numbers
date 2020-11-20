@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Sebastian Myhr 
+2. Student ID: 2375087
+3. Email: smyhr@chapman.edu
+4. Class: CPSC298
 5. Assignment: numbers 
 
 ## Application Purpose
